@@ -14,7 +14,7 @@ Universal Xiaomi Logo Tool tested on several firmwares and physically on the POC
 The name "ximi" is basically Xiaomi but also a reference to the TikTok device naming scheme for Xiaomi, popular in the TechTok community. Hilarious idea but yeah, lmao.
 ## 🧑🏽‍💻 Authors
 
-- GitHub: [@m-obeid](https://www.github.com/octokatherine)
+- GitHub: [@m-obeid](https://www.github.com/m-obeid)
 
 
 ## ⚠️ Note (for legal reasons)

@@ -2,6 +2,16 @@
 ![Logo](https://raw.githubusercontent.com/m-obeid/ximi_logo_dmp/main/icon.ico)
 
 
+#### ⚠️ Before you start
+```
+It seems like this tool doesn't work for a few devices, because the format was different then.
+ximi_logo_dmp will only support the modern format (i think its 2018 + devices I'm not sure tho)
+
+Devices that are confirmed do not work and will not be supported:
+
+Redmi Note 4X
+```
+
 #### 🔗 Links
 
 [![download](https://img.shields.io/static/v1?label=download&message=latest&color=success&style=for-the-badge&logo=github)](https://www.github.com/m-obeid/ximi_logo_dmp/archive/main.zip)
